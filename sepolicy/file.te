@@ -1,2 +1,2 @@
 # CMHW
-type vibeamp_sysfs, fs_type, sysfs_type;
+type vibeamp_sysfs, sysfs_disk_stat, fs_type, sysfs_type;
